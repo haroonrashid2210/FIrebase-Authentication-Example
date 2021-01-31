@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85809651333",
+    "project_id": "movieden",
+    "storage_bucket": "movieden.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85809651333:android:79e23df75c6c5cba3f13ec",
+        "android_client_info": {
+          "package_name": "com.movieden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85809651333-kroqiuejeg31rti9dtbvqvdqqi6h7hci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movieden",
+            "certificate_hash": "5f6e065e952f6c62f8adf001bd63630107d05b7a"
+          }
+        },
+        {
+          "client_id": "85809651333-6hl5rg0rjdp4a71b3bdjhh86fd2fsi7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz53gvZiPt_gQLZ6RoQOEXKIzvmCWxOR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85809651333-6hl5rg0rjdp4a71b3bdjhh86fd2fsi7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
